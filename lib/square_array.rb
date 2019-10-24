@@ -1,13 +1,12 @@
 def square_array(array)
-  counter=0 
   
- 
-  while array[counter] do
-     puts square_array.each
+     puts array.each
+     
+  #counter=0
+  #while array[counter] do
     #square_array[counter]=array[counter]*array[counter]
-    
-    counter+=1 
-  end
+    #counter+=1 
+  #end
 end
 
 puts "hello"
